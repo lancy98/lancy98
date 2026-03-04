@@ -39,7 +39,7 @@ A calendar project that previously gained traction on GitHub.
 ## 🌐 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/lancy-norbert-fernandes-8135bb86/)
-- GitHub: https://github.com/lancy-mega (projects and contributions from my work at MEGA)
+- GitHub: https://github.com/lancy98
 
 ---
 
