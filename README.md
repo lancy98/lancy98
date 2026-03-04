@@ -4,6 +4,8 @@ iOS Developer specializing in building high-performance, scalable mobile applica
 
 Focused on **modern iOS development, system design, and smooth user experiences,** with strong experience in **API integration, scalable architecture, and long-term code quality**.
 
+**GitHub:** https://github.com/lancy-mega (projects and contributions from my work at MEGA)
+
 [LinkedIn](https://www.linkedin.com/in/lancy-norbert-fernandes-8135bb86/)
 
 #### My Github statistics
