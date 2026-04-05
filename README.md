@@ -42,9 +42,3 @@ A calendar project that previously gained traction on GitHub.
 - GitHub: https://github.com/lancy98
 
 ---
-
-#### My Github statistics
-![](https://raw.githubusercontent.com/lancy98/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/lancy98/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/lancy98/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/lancy98/github-stats/master/generated/languages.svg#gh-light-mode-only)
