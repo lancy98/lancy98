@@ -14,7 +14,7 @@ iOS Developer focused on building high-performance, scalable applications using 
 ### Anticia
 Anticia is a SwiftUI countdown app for tracking upcoming events, milestones, trips, birthdays, deadlines, and completed countdowns.
 
-🔗 Repo: [https://github.com/lancy98/GrammarFixAI](https://github.com/lancy98/Anticia.git)
+🔗 Repo: [https://github.com/lancy98/Anticia.git](https://github.com/lancy98/Anticia.git)
 
 Tech: `Swift` `SwiftUI` `SwiftData` `iOS`
 
